@@ -1,0 +1,36 @@
+* {
+font-size: 12px;
+}
+
+.App {
+    margin: 20px 0 60px 0;
+}
+
+.suspense {
+    display: flex;
+    justify-content: space-between;
+}
+.border {
+    padding: 10px;
+    margin: 5px;
+    display: flex;
+    border: 1px solid black;
+}
+
+
+.comments{
+ width: 50%;
+ padding: 10px;
+ margin: 5px;
+ border: 1px solid black;
+}
+
+.hooks {
+    display: flex;
+}
+
+.block {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid black;
+}
